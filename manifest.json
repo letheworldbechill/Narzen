@@ -8,13 +8,13 @@
   "theme_color": "#4682b4",
   "icons": [
     {
-      "src": "icons/icon-192x192.png",
-      "type": "image/png",
+      "src": "icons/Screenshot_20241205_024012_Samsung Internet.jpg",
+      "type": "image/jpg",
       "sizes": "192x192"
     },
     {
-      "src": "icons/icon-512x512.png",
-      "type": "image/png",
+      "src": "icons/Screenshot_20241205_024012_Samsung Internet.jpg",
+      "type": "image/jpg",
       "sizes": "512x512"
     }
   ]
